@@ -99,20 +99,6 @@ This step helps uncover latent behavioral differences among users beyond the pur
 
 ---
 
-## Project Structure
-
-```
-Online-Shoppers-Intention/
-├── data/
-│   └── online_shoppers_intention.csv
-├── notebooks/
-│   └── Online_Shoppers_Purchase_Intention.ipynb
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
----
-
 ## Key Takeaways
 
 - Behavioral analytics can effectively predict purchase intent  
